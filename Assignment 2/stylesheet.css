@@ -1,0 +1,240 @@
+
+@font-face{
+    
+    font-family: "VCR";
+    src:url(fonts/VCR_OSD_MONO_1.001.ttf);
+    /*adds a vcr style font*/
+}
+@font-face{
+    
+    font-family: "paskowy";
+    src:url(fonts/paskowy.ttf);
+    /*adds the paskowy font*/
+}
+@font-face{
+    
+    font-family: "minecraft";
+    src:url(fonts/minecraft.ttf);
+    /*adds the minecraft font*/
+    
+}
+
+@font-face{
+    
+    font-family: "space";
+    src:url(fonts/SPACE.ttf);
+    /*adds a space theme font*/
+}
+@font-face{
+    
+    font-family: "spaceage";
+    src:url(fonts/space_age.ttf);
+    /*adds the spaceage font*/
+}
+
+.bckgrnd{
+
+
+    width: 100%;
+    background-color:black;
+    text-align: center;
+}
+
+
+
+#myheader {
+    text-align: center;
+    top: 575px;
+    height: auto; /*automaticly resizes banner to the browser windoe*/
+    background-color: #806ff0; /* sets the box color to a purple*/
+    opacity: 75%; /* changes the opacity to 75% */
+}
+#h{
+
+    background-color: #666699;
+    padding-left: 9px;
+    margin-left: 12.5%;
+    position: absolute;
+    width: 75%;
+    height: 4000px;
+
+}
+body{
+    background-image: url("images/galaxy.jpg");
+    background-color: #663399;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+hr{
+    width:50%;
+    color: azure;
+    text-align: left;
+
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0c3ba1;
+    text-align: center;
+    font-size: 21;
+    font-family: spaceage;
+    color: aliceblue;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color:aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: "#00ffff";
+}
+
+.p1{
+    font-family: "VCR";
+    color : aliceblue;
+    font-size: 20;
+    text-align: center;
+    padding-top: 15px
+    
+    
+    
+    
+}
+p{
+    font-family: "VCR";
+    color : aliceblue;
+    font-size: 20;
+    text-align: center;
+    
+    
+    
+    
+    
+}
+h1{
+    color: aliceblue;
+    font-family: vcr;
+    text-align: center;
+    
+
+    
+}
+
+h3{
+    
+    color: #e6e6ff;
+    font-family: vcr;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 10px
+    
+    
+}
+
+.p3{
+    font-family: "VCR";
+    color : white;
+    font-size: 15;
+    text-align: left;
+    padding-top: 5px;
+    
+    
+}
+.review{
+    color: aliceblue;
+    width: 75%;
+    height: auto;
+    margin-left: 12.5%;
+    background-color: #452268;
+    border-style: outset;
+    padding-top: 5px;
+
+    
+    
+}
+.rev2{
+    padding-top: 10px
+
+}
+.pfp{
+    width: 100px;
+    margin-left: 85%;
+    
+}
+
+
+.borderRight {
+    border-right: 1px solid #DBDBDB;
+    padding: 0 20px 0 0;
+}
+
+
+element.style {
+}
+.container_12 .grid_5 {
+    width: 380px;
+}
+.grid_1, .grid_2{
+    display: inline;
+    position: relative;
+    display: inline-block;
+    width: 40%;
+
+}
+.grid_3{
+    text-align: center;
+    
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.pfp{
+    
+    width: 250px;
+    
+}
+
+.namez{
+    
+    text-align: center;
+    font-family: vcr;
+    color: aliceblue;
+}
+
+.names2{
+    
+    
+   
+    font-family: vcr;
+    color: aliceblue;
+    margin-left: 90px;
+
+
+}
+
+
+
+.names3{
+    
+    font-family: vcr;
+    color: aliceblue;
+    font-size: 14;
+
+}
+
+
+
+
